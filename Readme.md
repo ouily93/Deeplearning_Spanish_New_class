@@ -45,5 +45,5 @@ Dans cette phase nous avons utilise gradio afin d'évaluer la  performence du mo
 
 
 
-# une partie très intéressante devrait être ajouté mais compte tenu du temps nous allons nous limiter sur Gradio 
+## une partie très intéressante devrait être ajouté mais compte tenu du temps nous allons nous limiter sur Gradio 
 
